@@ -63,18 +63,6 @@ interactive web application.
 - [x] Jupyter Notebook / source code (full pipeline, executed end-to-end)
 - [x] Trained ML model (.pkl) with scaler and feature list
 - [x] Working prototype/demo (Streamlit web application)
-- [x] Project report (Word document)
 - [x] PPT presentation (12 slides)
-- [ ] Final project demonstration (live viva — to be presented by the student)
 
-## Timeline (suggested, 6–8 weeks)
-| Week | Activity |
-|---|---|
-| 1 | Problem definition, literature review, dataset planning |
-| 2 | Data collection/generation, preprocessing |
-| 3 | Exploratory Data Analysis |
-| 4 | Feature engineering |
-| 5 | Model training and comparison |
-| 6 | Evaluation, hyperparameter tuning |
-| 7 | Streamlit app development |
-| 8 | Report writing, presentation preparation, final demo |
+
